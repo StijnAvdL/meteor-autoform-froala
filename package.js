@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'donchess:autoform-froala',
-  summary: '** Froala editor for aldeed:autoform',
-  version: '0.0.4',
-  git: 'https://github.com/maxnatik/meteor-autoform-froala'
+  name: 'thegeekmachine:autoform-froala',
+  summary: 'Froala editor for aldeed:autoform',
+  version: '0.0.5',
+  git: 'https://github.com/thegeekmachine/meteor-autoform-froala'
 });
 
 Package.onUse(function(api) {

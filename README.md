@@ -1,11 +1,13 @@
 Froala for AutoForm
 =======================
 
+This package was derived from donchess:autoform-froala
+
 Add WYSIWYG froala editor to your Meteor app.
 
 ###Usage###
 
-1) Install `meteor add donchess:autoform-froala`
+1) Install `meteor add thegeekmachine:autoform-froala`
 
 2) Create schema
 
