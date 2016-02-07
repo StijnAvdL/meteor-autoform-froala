@@ -12,9 +12,9 @@ Package.onUse(function(api) {
 
   api.use([
     'templating',
-    'aldeed:autoform'
+    'aldeed:autoform@5.8.1'
   ], both);
-  api.use('froala:editor', 'client');
+  api.use('froala:editor@2.1.0', 'client');
 
   api.addFiles([
     'lib/client/templates.html',
