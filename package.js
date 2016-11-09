@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'thegeekmachine:autoform-froala',
+  name: 'stijnavdl:autoform-froala',
   summary: 'Froala editor for aldeed:autoform',
   version: '0.0.7',
-  git: 'https://github.com/thegeekmachine/meteor-autoform-froala'
+  git: 'https://github.com/StijnAvdL/meteor-autoform-froala'
 });
 
 Package.onUse(function(api) {
